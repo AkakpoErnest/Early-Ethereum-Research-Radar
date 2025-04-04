@@ -1,6 +1,6 @@
 # Early-Ethereum-Research-Radar
-A Research Tool
-A tool that:
+A Research Tool that :
+
 	•	Monitors EIP drafts, HackMD links, EthMagicians, dev call notes, Twitter threads.
 	•	Surfaces new EIPs, major edits, emerging discussions, and pre-draft proposals.
 	•	Sends summarized weekly digests or real-time alerts.
